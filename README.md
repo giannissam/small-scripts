@@ -7,12 +7,12 @@ Simple cipher based on letter substitution. (More info https://en.wikipedia.org/
 Execution:
 python ceasar.py
 Instructions:
-Insert some text and the key separated by "," 
+Insert text and key when prompted.
 The text is the text you want to get encoded or decoded.
-The key is the number of left shift (or right if the key is negative) of the alphabet. 
-If key = 2, a will become c, b will become d etc
+The key is the number of left shift (or right if the key is negative) of the alphabet.  
+If key = 2, a will become c, b will become d etc.
 
-Execution example:
+Execution example:  
 Text: This is a test. Or not?  
 Key:3  
 wklv lv d whvw. ru qrw?  
