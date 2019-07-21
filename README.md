@@ -1,12 +1,12 @@
 # small-scripts
 Random small scripts
 
-I will put here some small scripts
-1. ceasar.py
+I will put here some small scripts  
+1. ceasar.py  
 Simple cipher based on letter substitution. (More info https://en.wikipedia.org/wiki/Caesar_cipher)
-Execution:
-python ceasar.py
-Instructions:
+Execution:  
+python ceasar.py  
+Instructions:  
 Insert text and key when prompted.
 The text is the text you want to get encoded or decoded.
 The key is the number of left shift (or right if the key is negative) of the alphabet.  
