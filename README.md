@@ -3,7 +3,7 @@ Random small scripts
 
 I will put here some small scripts  
 1. ceasar.py  
-Simple cipher based on letter substitution. (More info https://en.wikipedia.org/wiki/Caesar_cipher)
+Simple cipher based on letter substitution. (More info https://en.wikipedia.org/wiki/Caesar_cipher)  
 Execution:  
 python ceasar.py  
 Instructions:  
