@@ -13,9 +13,9 @@ The key is the number of left shift (or right if the key is negative) of the alp
 If key = 2, a will become c, b will become d etc
 
 Execution example:
-Text: This is a test. Or not?
-Key:3
-wklv lv d whvw. ru qrw?
-Text: wklv lv d whvw. ru qrw?
-Key:-3
+Text: This is a test. Or not?  
+Key:3  
+wklv lv d whvw. ru qrw?  
+Text: wklv lv d whvw. ru qrw?  
+Key:-3  
 this is a test. or not?
